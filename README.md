@@ -36,12 +36,13 @@ G.R.O.W.T.H. is a smart irrigation system that automates plant watering based on
 
 ## 🧰 Hardware Components
 
-- Arduino Uno
+- Arduino Nano
 - Soil Moisture Sensor
 - Rain Water Sensor
 - Photoresistor Module (LDR)
 - Relay Module
 - Water Pump
+- External Power Source for Water Pump
 - 4x LEDs with resistors
 - Jumper wires
 - Breadboard
